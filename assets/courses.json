@@ -1,0 +1,91 @@
+[
+    {
+      "universityCode": "6037",
+      "universityName": "خلیج فارس بوشهر",
+      "majorCode": "01",
+      "majorName": "مهندسی کامپیوتر",
+      "teacherCode": "T001",
+      "teacherName": "حبیب رستمی",
+      "courseCode": "3468",
+      "courseName": "طراحی الگوریتم",
+      "date": "1404/1/18",
+      "weekday": "دوشنبه",
+      "time": "10:30",
+      "status": "برگزار شده"
+    },
+    {
+      "universityCode": "6037",
+      "universityName": "خلیج فارس بوشهر",
+      "majorCode": "01",
+      "majorName": "مهندسی کامپیوتر",
+      "teacherCode": "T002",
+      "teacherName": "ابراهیم صحاف زاده",
+      "courseCode": "3856999",
+      "courseName": "مهندسی نرم افزار 2",
+      "date": "1404/1/17",
+      "weekday": "یکشنبه",
+      "time": "12:00",
+      "status": "لغو شده"
+    },
+    
+      {
+        "universityCode": "6037",
+        "universityName": "خلیج فارس بوشهر",
+        "majorCode": "01",
+        "majorName": "مهندسی کامپیوتر",
+        "teacherCode": "T002",
+        "teacherName": "ابراهیم صحاف زاده",
+        "courseCode": "3856999",
+        "courseName": "مهندسی نرم افزار 1",
+        "date": "1404/1/17",
+        "weekday": "یکشنبه",
+        "time": "12:00",
+        "status": "لغو شده"
+      },
+      {
+        "universityCode": "1001",
+        "universityName": "دانشگاه تهران",
+        "majorCode": "02",
+        "majorName": "مهندسی برق",
+        "teacherCode": "T005",
+        "teacherName": "دکتر کاظمی",
+        "courseCode": "3021457",
+        "courseName": "مدارهای الکتریکی",
+        "date": "1404/2/3",
+        "weekday": "دوشنبه",
+        "time": "10:00",
+        "status": "برگزار شده"
+      },
+      {
+        "universityCode": "2002",
+        "universityName": "دانشگاه صنعتی شریف",
+        "majorCode": "03",
+        "majorName": "علوم کامپیوتر",
+        "teacherCode": "T009",
+        "teacherName": "دکتر رضایی",
+        "courseCode": "4021785",
+        "courseName": "ساختمان داده",
+        "date": "1404/1/25",
+        "weekday": "چهارشنبه",
+        "time": "14:00",
+        "status": "در حال برگزاری"
+      },
+      {
+        "universityCode": "3003",
+        "universityName": "دانشگاه چمران اهواز",
+        "majorCode": "04",
+        "majorName": "آمار",
+        "teacherCode": "T014",
+        "teacherName": "دکتر موسوی",
+        "courseCode": "5823641",
+        "courseName": "آمار و احتمال",
+        "date": "1404/1/20",
+        "weekday": "شنبه",
+        "time": "08:00",
+        "status": "لغو شده"
+      }
+    
+    
+    
+  ]
+  
